@@ -1,5 +1,5 @@
 ﻿using System;
-using Muhammed_Hatipoglu_Extension.OrtalamaExtension;
+using Muhammed_Hatipoglu_Extension.Extension;
 
 namespace Muhammed_Hatipoglu_Extension
 {
